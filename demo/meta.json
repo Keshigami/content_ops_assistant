@@ -1,0 +1,60 @@
+{
+ "folder": "portfolio/content_ops_assistant",
+ "slug": "portfolio__content_ops_assistant",
+ "port": 8116,
+ "title": "Content Ops Assistant",
+ "one_liner": "One campaign brief and four brand sliders become an email, a LinkedIn post and three ad variants, with the system prompt the sliders produce shown on the page.",
+ "duration_s": 59.1,
+ "highlight_s": 8.4,
+ "steps": [
+  {
+   "n": 1,
+   "text": "Content ops: use the sample brief, the Ledger Sync launch",
+   "ok": true,
+   "t": 3.7
+  },
+  {
+   "n": 2,
+   "text": "Generate: email, LinkedIn and ad copy from one brief",
+   "ok": true,
+   "t": 8.3
+  },
+  {
+   "n": 3,
+   "text": "The LinkedIn version",
+   "ok": true,
+   "t": 13.4
+  },
+  {
+   "n": 4,
+   "text": "The ad copy",
+   "ok": true,
+   "t": 17.4
+  },
+  {
+   "n": 5,
+   "text": "The system prompt the sliders produce",
+   "ok": true,
+   "t": 21.5
+  },
+  {
+   "n": 6,
+   "text": "Move the tone slider to Friendly: the prompt changes with it",
+   "ok": true,
+   "t": 30.3
+  },
+  {
+   "n": 7,
+   "text": "Formality up three notches: a formal register rule appears",
+   "ok": true,
+   "t": 41.1
+  },
+  {
+   "n": 8,
+   "text": "Generate again with the new voice",
+   "ok": true,
+   "t": 52.5
+  }
+ ],
+ "skipped": []
+}
